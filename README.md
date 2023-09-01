@@ -1,7 +1,7 @@
 <h1 align = "center"> Coffee Machine Simulator </h1>
 
 ### Languages used :
-#### Java
+#### Java(oops)
 
 ### Project Description :
 ##### Our Coffee machine will contain the ingredients to make coffee i.e., milk, water, and coffee beans. Let’s say our coffee machine can hold infinite amounts of all the ingredients but initially contains nothing.
@@ -80,3 +80,9 @@ fill() -> it will refill the coffee
 ![Screenshot (45)](https://github.com/sreenath789/Coffee-Machine-Simulator/assets/88339640/73fd2629-78c1-40a3-9202-40e293b5aac5)
 
 
+### Project Summary :
+
+###### There is a “buy” option which enables the user to buy a coffee of their choice. The coffee would be dispensed only if the machine contains enough ingredients to make that coffee otherwise it will show an error message.
+###### After coffee is dispensed, money in our box will be updated as well as remaining ingredients. There should be a “fill” option which will add the ingredients as the user specifies. There should be a “take” option which enables the maintainer to take the money in the money box. There is a “show” option which enables the user to check the ingredients left in the coffee machine. There should be an “exit” option which stops the simulation.
+
+###### There is an option “analytics” which will display the count of all the coffees it sold, amount it earned, ingredients it consumed.
