@@ -74,8 +74,6 @@ fill() -> it will refill the coffee
 
 #### Sample Output Of The Code
 
-![Screenshot (45).png](..%2F..%2F..%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%20%2845%29.png)
-![Screenshot (42).png](..%2F..%2F..%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%20%2842%29.png)
-![Screenshot (43).png](..%2F..%2F..%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%20%2843%29.png)
-![Screenshot (44).png](..%2F..%2F..%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%20%2844%29.png)
+![Screenshot (45)](https://github.com/sreenath789/Coffee-Machine-Simulator/assets/88339640/73fd2629-78c1-40a3-9202-40e293b5aac5)
+
 
