@@ -53,8 +53,8 @@ public class Cappuccino {
         System.out.println("\n [ Thank you for buying. Have a Nice day! ] ");
 
         //after selling coffee
-        CoffeeMachine.cappuccinoSoldCount++;
-        CoffeeMachine.totalSold++;
+        CoffeeMachine.cappuccinoSoldCount+=cups;
+        CoffeeMachine.totalSold+=cups;
         CoffeeMachine.coffeeIsEmpty=true;
 
         CoffeeMachine.mainMenu();

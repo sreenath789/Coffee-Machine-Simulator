@@ -55,8 +55,8 @@ public class Espresso {
         System.out.println("\n [ Thank you for buying. Have a Nice day! ] ");
 
         //after selling coffee
-        CoffeeMachine.espressoSoldCount++;
-        CoffeeMachine.totalSold++;
+        CoffeeMachine.espressoSoldCount+=cups;
+        CoffeeMachine.totalSold+=cups;
         CoffeeMachine.coffeeIsEmpty=true;
 
         CoffeeMachine.mainMenu();
