@@ -78,5 +78,6 @@ fill() -> it will refill the coffee
 ![Screenshot (43)](https://github.com/sreenath789/Coffee-Machine-Simulator/assets/88339640/4750c1c0-c333-490a-ab44-c3867e57e3a7)
 ![Screenshot (44)](https://github.com/sreenath789/Coffee-Machine-Simulator/assets/88339640/b0675516-4841-4854-bf0d-4efe7a0000c6)
 ![Screenshot (45)](https://github.com/sreenath789/Coffee-Machine-Simulator/assets/88339640/73fd2629-78c1-40a3-9202-40e293b5aac5)
+![Screenshot (46)](https://github.com/sreenath789/Coffee-Machine-Simulator/assets/88339640/cf57dcf7-aaca-4212-b0f6-7f71a37c0763)
 
 
